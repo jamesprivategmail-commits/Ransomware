@@ -9,9 +9,9 @@ This is a powerful ransomware project designed to encrypt files on a target syst
 - Remote control and monitoring capabilities.
 
 ## Usage
-1. Compile the ransomware binary.
+1. Compile the ransomware binary using the provided source code.
 2. Deploy the binary to the target system.
-3. Execute the ransomware and watch it do its job.
+3. Execute the ransomware and watch it encrypt files.
 4. Collect the ransom payment and provide the decryption key.
 
 ## Disclaimer
